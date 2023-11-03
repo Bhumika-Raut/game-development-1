@@ -5,4 +5,5 @@ const play =document.getElementById("play-button");
 play.onclick = function(){
 
     location.href = "./game.html"
+    
 }
